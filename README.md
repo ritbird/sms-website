@@ -1,2 +1,2 @@
-# sms-website
+# Complete Student Management
 Student Management Website
